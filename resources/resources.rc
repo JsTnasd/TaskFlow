@@ -1,0 +1,31 @@
+1 ICON "icon.ico"
+1 24 "app.manifest"
+
+1 VERSIONINFO
+FILEVERSION 2,3,0,0
+PRODUCTVERSION 2,3,0,0
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS 0x40004L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Soma"
+      VALUE "FileDescription", "TaskFlow Pro"
+      VALUE "FileVersion", "2.3.0"
+      VALUE "InternalName", "TaskFlow"
+      VALUE "LegalCopyright", "Copyright (c) 2026 Soma"
+      VALUE "OriginalFilename", "TaskFlow.exe"
+      VALUE "ProductName", "TaskFlow Pro"
+      VALUE "ProductVersion", "2.3.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 1252
+  END
+END
