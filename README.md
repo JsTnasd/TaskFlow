@@ -1,6 +1,6 @@
-# TaskFlow Pro
+# TaskFlow
 
-TaskFlow Pro is a compact macro recorder for Windows with two recording slots, configurable global shortcuts, profiles, loops, and adjustable playback speed.
+TaskFlow is a compact macro recorder for Windows with two recording slots, configurable global shortcuts, profiles, loops, and adjustable playback speed.
 
 ## Features
 
@@ -59,7 +59,3 @@ The included workflow builds x64 and x86 artifacts automatically. Push a tag suc
 ## Privacy and fair use
 
 TaskFlow works locally and does not transmit recordings. Use automation only where it is permitted.
-
-## License
-
-MIT © Soma
